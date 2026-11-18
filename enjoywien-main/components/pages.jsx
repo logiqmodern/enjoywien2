@@ -418,7 +418,7 @@ const T2 = TRANSLATIONS;
               <Icon name="whatsapp" size={20}></Icon>
               <div>
                 <div className="wa-cta-1">{t.contact.whatsappCta}</div>
-                <div className="wa-cta-2">+43 660 000 0000</div>
+                <div className="wa-cta-2">+43 660 600 3759</div>
               </div>
             </a>
             <div className="contact-other">

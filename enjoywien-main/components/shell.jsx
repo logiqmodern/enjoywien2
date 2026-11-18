@@ -166,7 +166,7 @@ export function Footer({ setPage, lang }) {
         <div className="footer-col footer-contact">
           <div className="footer-h">{lang === 'bg' ? 'Връзка' : 'Get in touch'}</div>
           <a className="wa-line">
-            <Icon name="whatsapp" size={16}></Icon> +43 660 000 0000
+            <Icon name="whatsapp" size={16}></Icon> +43 660 600 3759
           </a>
           <a href="mailto:booking@enjoywien.com">booking@enjoywien.com</a>
           <a>Wien · Österreich</a>
